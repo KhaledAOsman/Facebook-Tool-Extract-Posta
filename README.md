@@ -24,4 +24,4 @@ datetime: Handles timestamp for scraping logs.
 
 
 
-![alt text](https://github.com/KhaledAOsman/Facebook-Tool-Extract-Posts/tree/main/image/3.png?raw=true)
+![](https://github.com/KhaledAOsman/Facebook-Tool-Extract-Posts/tree/main/image/3.png?raw=true)
