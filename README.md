@@ -21,3 +21,7 @@ pandas: Handles data manipulation and saves the scraped data to Excel.
 os and time: File and timing operations.
 re and urlparse: String manipulation and URL parsing.
 datetime: Handles timestamp for scraping logs.
+
+
+
+![alt text](https://github.com/KhaledAOsman/Facebook-Tool-Extract-Posts/tree/main/image/3.png)
