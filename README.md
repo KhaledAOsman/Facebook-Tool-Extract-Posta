@@ -13,14 +13,14 @@ Log messages for progress and errors during the scraping process.
 
 ## Libraries and Modules Used
 
-gspread: Interface with Google Sheets to fetch login credentials.
-tkinter: GUI for user interaction.
-selenium: Automates web browsing and scraping from Facebook.
-webdriver_manager: Manages Chrome WebDriver installation.
-pandas: Handles data manipulation and saves the scraped data to Excel.
-os and time: File and timing operations.
-re and urlparse: String manipulation and URL parsing.
-datetime: Handles timestamp for scraping logs.
+- gspread: Interface with Google Sheets to fetch login credentials.
+- tkinter: GUI for user interaction.
+- selenium: Automates web browsing and scraping from Facebook.
+- webdriver_manager: Manages Chrome WebDriver installation.
+- pandas: Handles data manipulation and saves the scraped data to Excel.
+- os and time: File and timing operations.
+- re and urlparse: String manipulation and URL parsing.
+- datetime: Handles timestamp for scraping logs.
 
 
 ## Login interface 
@@ -35,3 +35,14 @@ that has columns
 You need active API of Googel sheets and Googel Drive also you need create Credentials JSON file
 
 <img src="images/Login.png">
+
+
+## Scrap interface 
+
+<img src="images/Inteface.png">
+
+
+## What is the importance of this tool? 
+
+we build this Tool to collect Posts to Analysis the posts 
+and use this in marketing we can connect to persons who active in Groups and more .......
