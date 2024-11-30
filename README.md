@@ -46,3 +46,7 @@ You need active API of Googel sheets and Googel Drive also you need create Crede
 
 we build this Tool to collect Posts to Analysis the posts 
 and use this in marketing we can connect to persons who active in Groups and more .......
+
+
+Best, 
+Khaled Atef
