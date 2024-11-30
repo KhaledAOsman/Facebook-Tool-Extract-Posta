@@ -24,8 +24,14 @@ datetime: Handles timestamp for scraping logs.
 
 
 ## Login interface 
-we connect to Googel sheet 
-that has columns UserName / Password / URL(facebook Groups that will scrap posts from them) / Name(name we will append to excel sheet)
+Here we connect to Googel sheet
+that has columns
+
+- Username
+- Password
+- URL(facebook Groups that will scrap posts from them)
+- Name(name we will append to excel sheet)
+
 You need active API of Googel sheets and Googel Drive also you need create Credentials JSON file
 
 <img src="images/Login.png">
