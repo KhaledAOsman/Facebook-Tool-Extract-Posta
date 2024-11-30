@@ -39,7 +39,7 @@ You need active API of Googel sheets and Googel Drive also you need create Crede
 
 ## Scrap interface 
 
-<img src="images/Inteface.png">
+<img src="images/Interface.png">
 
 
 ## What is the importance of this tool? 
